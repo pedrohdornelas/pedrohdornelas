@@ -2,7 +2,7 @@
 - 👀 Estou interessado em migrar de carreira para área de desenvolvedor back-end. 
 - 🌱 Atualmente estou aprendendo a programar em Javascript do lado do servidor aplicando técnicas assíncronas.
 -  💞️ Procuro colaborar em aplicações completas de back end e desenvolver aplicações modernas com Node.js e MongoDB. 
-- 📫 📫 Como entrar em contato comigo: (61)99993-3684 / pedrohdornelas@gmail.com
+- 📫 Como entrar em contato comigo: (61)99993-3684 / pedrohdornelas@gmail.com
 
 
 <!---
